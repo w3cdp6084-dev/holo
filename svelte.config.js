@@ -6,5 +6,9 @@ module.exports = {
     typescript: {
       tsconfigFile: './tsconfig.json',
     },
+    sass: true,
+    scss: {
+      prependData: `@import 'src/styles/main.scss';`
+    },
   }),
 };
