@@ -24,6 +24,7 @@
   "dependencies": {
     "@tsconfig/svelte": "^5.0.2",
     "gsap": "^3.12.5",
+    "normalize.css": "^8.0.1",
     "sirv-cli": "^2.0.0",
     "three": "^0.162.0"
   }
