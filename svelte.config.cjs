@@ -1,4 +1,4 @@
-// svelte.config.js
+// svelte.config.cjs
 const sveltePreprocess = require('svelte-preprocess');
 
 module.exports = {
